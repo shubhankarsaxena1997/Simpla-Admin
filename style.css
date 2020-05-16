@@ -1,0 +1,19 @@
+.main{
+	margin: auto;
+	height: 400px;
+	width: 50%;
+	background-color: #d1d0cd;
+}
+.main h2{
+	text-decoration: underline;
+}
+.content{
+	text-align: center;
+}
+.btn{
+	height: 25px;
+	width: 15%;
+	background-color: #37d449;
+	border-radius: 5px;
+	font-family: calibri;
+}	
